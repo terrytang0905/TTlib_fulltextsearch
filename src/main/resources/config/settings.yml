@@ -1,0 +1,34 @@
+# Note, that for development on a local machine, with small indices, it usually
+# makes sense to "disable" the distributed features:
+#
+	
+client: 
+	transport:
+		sniff: true
+	host: 192.168.1.101
+	port: 9300
+	
+cluster:
+	name: lenote-elasticsearch
+
+node:
+  data: true
+#  local: true
+  
+path:
+	data: target/data
+	plugins: target/plugins
+	logs: target/log
+	conf: target/conf
+	
+index:
+	number_of_shards: 5
+	number_of_replicas: 1
+	gateway:
+		type: none
+  
+plugins:
+  mapper-attachments: elasticsearch/elasticsearch-mapper-attachments/1.7.0
+  lang-javascript: elasticsearch/elasticsearch-lang-javascript/1.4.0
+  lang-groovy: elasticsearch/elasticsearch-lang-groovy/1.4.0
+  ik: medcl/elasticsearch-analysis-ik/1.2.0  

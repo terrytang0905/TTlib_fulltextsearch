@@ -1,0 +1,29 @@
+{
+	"type": "mongodb",
+	"mongodb": {
+		"servers": [
+		{ 
+			"host": "192.168.1.103",
+			"port": 30000
+		}
+		],
+		"options": {
+			"secondary_read_preference": true
+		},
+		"credentials": [{
+			db: "admin",
+			user: "root",
+			password: "lenote2013"
+		}],
+		"db": "lndbs",
+		"collection": "ln_note",
+		"gridfs": false
+	},
+	"index": {
+		"name": "noteindex",
+		"type": "ln_note",
+		"throttle_size": 20000,
+		"bulk_size": 5000,
+		"bulk_timeout": 60
+	}
+}

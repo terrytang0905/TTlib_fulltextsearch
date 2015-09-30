@@ -1,0 +1,31 @@
+{  
+   "notecnindex":{
+   	  "_all" : {"enabled" : true},
+      "properties":{  
+         "summary":{  
+            "type":"string",
+            "store":"yes",
+            "index_analyzer" :"ik",
+			"search_analyzer" :"ik"        
+         },    
+         "title":{  
+            "type":"string",  
+            "store":"yes",
+            "index_analyzer" :"ik",
+			"search_analyzer" :"ik"     
+         },  
+         "content":{  
+            "type":"string", 
+            "store":"yes",
+            "index_analyzer" :"ik",
+			"search_analyzer" :"ik"  
+         }, 
+         "createTime":{  
+            "type":"long"  
+         },  
+         "lastUpdateTime":{  
+            "type":"long"  
+         }  
+      }  
+   }  
+}

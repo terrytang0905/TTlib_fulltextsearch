@@ -1,0 +1,27 @@
+{
+	"type": "mongodb",
+	"mongodb": {
+		"servers": [
+		{ 
+			"host": "${product.mongo.db.nodeiplist}",
+			"port": ${product.mongo.db.nodeportlist}
+		}
+		],
+		"options": {
+			"secondary_read_preference": true
+		},
+		"credentials": [{
+			db: "admin",
+			user: "${product.mongo.db.username}",
+			password: "${product.mongo.db.password}"
+		}],
+		"db": "${product.mongo.db.dbname}",
+		"collection": "ln_resource",
+		"gridfs": false
+	},
+	"index": {
+		"name": "resourceindex",
+		"type": "ln_resource",
+		"throttle_size": 5000
+	}
+}

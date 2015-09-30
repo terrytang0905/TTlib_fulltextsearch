@@ -1,0 +1,29 @@
+{
+	"type": "mongodb",
+	"mongodb": {
+		"servers": [
+		{ 
+			"host": "${product.mongo.db.nodeiplist}",
+			"port": ${product.mongo.db.nodeportlist}
+		}
+		],
+		"options": {
+			"secondary_read_preference": true
+		},
+		"credentials": [{
+			db: "admin",
+			user: "${product.mongo.db.username}",
+			password: "${product.mongo.db.password}"
+		}],
+		"db": "${product.mongo.db.dbname}",
+		"collection": "ln_note",
+		"gridfs": false
+	},
+	"index": {
+		"name": "noteindex",
+		"type": "ln_note",
+		"throttle_size": 10000,
+		"bulk_size": 5000,
+		"bulk_timeout": 30
+	}
+}
