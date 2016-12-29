@@ -1,0 +1,28 @@
+{
+   "noteindex":{  
+   	  "_all" : {"enabled" : true},
+      "properties":{  
+         "summary":{  
+            "type":"string",
+            "store":"yes",
+            "index":"analyzed",  
+         },   
+         "title":{  
+            "type":"string",  
+            "store":"yes",
+            "index":"analyzed",   
+         },   
+         "content":{  
+            "type":"string", 
+            "store":"yes",
+            "index":"analyzed" 
+         },  
+         "createTime":{  
+            "type":"long"  
+         },  
+         "lastUpdateTime":{  
+            "type":"long"  
+         }  
+      }  
+   }  
+}

@@ -169,8 +169,9 @@ public class IndexManager implements InitializingBean {
 
 	public void deleteRiver(String river) {
 		logger.info("Delete river [{}]", river);
+		//TODO need to check
 		searchClient.getESClient().admin().indices()
-				.prepareDeleteMapping("_river").setType(river).execute()
+				.prepareDelete("_river").execute()
 				.actionGet();
 		SearchServerClient.checkClusterHealth();
 	}

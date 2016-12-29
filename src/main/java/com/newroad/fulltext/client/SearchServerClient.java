@@ -1,19 +1,22 @@
 package com.newroad.fulltext.client;
 
 import static org.elasticsearch.client.Requests.clusterHealthRequest;
-import static org.elasticsearch.common.settings.ImmutableSettings.settingsBuilder;
+import static org.elasticsearch.common.settings.Settings.builder;
 
+import java.io.IOException;
 import java.io.InputStream;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import org.elasticsearch.action.admin.cluster.health.ClusterHealthResponse;
 import org.elasticsearch.client.Client;
-import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.common.transport.InetSocketTransportAddress;
 import org.elasticsearch.node.Node;
+import org.elasticsearch.transport.client.PreBuiltTransportClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.InitializingBean;
@@ -102,12 +105,12 @@ public class SearchServerClient implements InitializingBean {
     logger.info("Done Cluster Health, status " + clusterHealth.getStatus());
   }
 
-  private void loadSettings() {
+  private void loadSettings() throws IOException {
     // Settings settings = ImmutableSettings.settingsBuilder()
     // .put("cluster.name", clusterName).build();
     InputStream is = this.getClass().getClassLoader().getResourceAsStream("/config/settings.yml");
     if (is != null) {
-      settings = settingsBuilder().loadFromStream("settings.yml", is).put("client", true).put("data", false).build();
+      settings = builder().loadFromStream("settings.yml", is).put("client", true).put("data", false).build();
 
       esHost = settings.get("client.host");
       esPort = settings.getAsInt("client.port", 9300);
@@ -115,9 +118,10 @@ public class SearchServerClient implements InitializingBean {
     }
   }
 
-  private void initElasticsearchServer() {
-    InetSocketTransportAddress addr = new InetSocketTransportAddress(esHost, esPort);
-    client = new TransportClient(settings).addTransportAddress(addr);
+  private void initElasticsearchServer() throws UnknownHostException {
+    InetAddress inetAddress=InetAddress.getByAddress(esHost, esHost.getBytes());
+    InetSocketTransportAddress addr = new InetSocketTransportAddress(inetAddress, esPort);
+    client = new PreBuiltTransportClient(settings).addTransportAddress(addr);
   }
 
   private void initMongoInstances() throws Exception {

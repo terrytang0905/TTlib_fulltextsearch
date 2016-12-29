@@ -22,6 +22,7 @@ import org.elasticsearch.search.SearchHit;
 import org.elasticsearch.search.SearchHits;
 
 import com.newroad.fulltext.client.SearchServerClient;
+import org.elasticsearch.search.fetch.subphase.highlight.HighlightBuilder;
 
 /**
  * @info Search Manager
@@ -55,7 +56,9 @@ public class SearchManager {
 
     int searchFrom = searchCriteria.getSearchFrom();
     int searchRange = searchCriteria.getSearchRange();
-    searchbuilder.addHighlightedField(query).setFrom(searchFrom).setSize(searchRange)
+    //TODO need to check whether this code is work
+    HighlightBuilder highlightBuilder=new HighlightBuilder().field(query);
+    searchbuilder.highlighter(highlightBuilder).setFrom(searchFrom).setSize(searchRange)
         .setExplain(true);
     SearchResponse response = searchbuilder.execute().actionGet();
     List<?> result = searchHits(response, searchFrom, searchRange);
@@ -93,7 +96,9 @@ public class SearchManager {
     int searchRange = searchCriteria.getSearchRange();
 
     searchbuilder.setQuery(queryBuilder);
-    searchbuilder.addHighlightedField(query).setFrom(searchFrom).setSize(searchRange)
+    //TODO need to check whether this code is work
+    HighlightBuilder highlightBuilder=new HighlightBuilder().field(query);
+    searchbuilder.highlighter(highlightBuilder).setFrom(searchFrom).setSize(searchRange)
         .setExplain(true);
     SearchResponse response = searchbuilder.execute().actionGet();
     List<?> result = searchHits(response, searchFrom, searchRange);

@@ -1,10 +1,13 @@
 package com.newroad.fulltext.util;
 
-import static org.elasticsearch.common.io.Streams.copyToStringFromClasspath;
+import static org.elasticsearch.common.io.Streams.copyToString;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.MediaType;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
 
 /**
  * @info
@@ -22,7 +25,8 @@ public class JSONHelper {
 	public static String getJsonSettings(String jsonDefinition, Object... args)
 			throws Exception {
 		//logger.debug("Get setting");
-		String setting = copyToStringFromClasspath(jsonDefinition);
+		//TODO need to check
+		String setting = copyToString(new FileReader(jsonDefinition));
 		if (args != null) {
 			setting = String.format(setting, args);
 		}
