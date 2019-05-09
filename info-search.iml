@@ -15,8 +15,11 @@
         </sourceRoots>
       </configuration>
     </facet>
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -44,7 +47,7 @@
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.1.2" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.7" level="project" />
     <orderEntry type="library" name="Maven: junit:junit:4.8.2" level="project" />
-    <orderEntry type="module" module-name="cache-cluster" />
+    <orderEntry type="module" module-name="cachecluster" />
     <orderEntry type="library" name="Maven: com.couchbase.client:couchbase-client:1.4.6" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty:3.5.5.Final" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.1" level="project" />

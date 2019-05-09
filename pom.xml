@@ -23,7 +23,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.newroad</groupId>
-			<artifactId>cache-cluster</artifactId>
+			<artifactId>cachecluster</artifactId>
 			<version>0.0.2.RELEASE</version>
 		</dependency>
 

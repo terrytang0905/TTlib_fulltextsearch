@@ -2,125 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="996733e3-cae0-4c8f-b8bd-0424ab086cec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cache-cluster/cache-cluster.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/fulltextsearch_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/fulltextsearch_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_couchbase_client_1_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_whalin_Memcached_Java_Client_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_fastjson_boon_0_32.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_5_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_spy_spymemcached_2_11_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_13_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cache-cluster/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../cache-cluster/src/main/resources/logback.xml.bak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../common-util/src/main/java/logback.xml.bak" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/spiders/demohourSpider.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/dataCapture.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../common-util/src/main/java/logback_mac.xml" afterPath="$PROJECT_DIR$/../common-util/src/main/resources/logback_mac.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/MainAction.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/MainAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/QuestionLoadAction.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/QuestionLoadAction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/TestMain.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/TestMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/constants/Constants.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/constants/Constants.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/FileDataDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/FileDataDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/PhotoDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/PhotoDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/ProductBannerDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/ProductBannerDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/ProductCaptureDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/ProductCaptureDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/ProductCategoryDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/ProductCategoryDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/ProductDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/ProductDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/ProductTagScopeDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/ProductTagScopeDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/TestAnswerDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/TestAnswerDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/dao/TestDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/dao/TestDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/Article.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/Article.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/FileData.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/FileData.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/Photo.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/Photo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/Product.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/Product.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/ProductBanner.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/ProductBanner.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/ProductCapture.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/ProductCapture.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/ProductCategory.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/ProductCategory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/ProductTagScope.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/ProductTagScope.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/Test.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/domain/TestAnswer.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/domain/TestAnswer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/FileLoadManager.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/FileLoadManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/MachineCrawlLoadManager.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/MachineCrawlLoadManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/MachineCrawlWPManager.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/MachineCrawlWPManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/QuestionLoadManager.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/QuestionLoadManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/Utils.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/Utils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/db/QuestionDao.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/db/QuestionDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/db/SqlSessionManager.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/db/SqlSessionManager.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/db/WPPostDao.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/db/WPPostDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/manager/db/ZYProductDao.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/manager/db/ZYProductDao.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/wp/dao/WPPostDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/wp/dao/WPPostDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/wp/dao/WPPostMetaDaoIf.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/wp/dao/WPPostMetaDaoIf.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/wp/domain/WPPost.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/wp/domain/WPPost.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/wp/domain/WPPostMeta.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/zy/info/crawler/wp/domain/WPPostMeta.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cache-cluster/pom.xml" afterPath="$PROJECT_DIR$/../cache-cluster/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/Cache.java" afterPath="$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/Cache.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/CacheManager.java" afterPath="$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/CacheManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../cache-cluster/src/main/resources/cache.properties" afterPath="$PROJECT_DIR$/../cache-cluster/src/main/resources/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../common-util/pom.xml" afterPath="$PROJECT_DIR$/../common-util/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/pom.xml" afterPath="$PROJECT_DIR$/../info-crawler/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/filepipelines.py" afterPath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/filepipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/items.py" afterPath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/mongopipelines.py" afterPath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/mongopipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/settings.py" afterPath="$PROJECT_DIR$/../info-crawler/scrapy/babaSR/babaSR/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/TripMasterMainAction.java" afterPath="$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/TripMasterMainAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/banner-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/banner-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/capture-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/capture-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/category-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/category-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/photo-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/photo-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/post-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/post-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/postmeta-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/postmeta-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/product-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/product-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/resource-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/resource-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/tagscope-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/tagscope-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/test-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/test-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/testanswer-sql-mapping.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/testanswer-sql-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/wpBatis-config.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/wpBatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/zyBatis-config.xml" afterPath="$PROJECT_DIR$/../info-crawler/src/main/resources/zy/zyBatis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/index/IndexManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/index/IndexManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/search/SearchManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/search/SearchManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/util/JSONHelper.java" afterPath="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/util/JSONHelper.java" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_newroad_cache_cluster_0_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTlib_common_util/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TTlib_common_util/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/info_search_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/info_search_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/info_search_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/info_search_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_couchbase_client_couchbase_client_1_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_r08.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jolbox_bonecp_0_7_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_0_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp_okhttp_2_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_proxytoys_proxytoys_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_spy_spymemcached_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mariadb_jdbc_mariadb_java_client_1_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_morphia_morphia_0_111.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_morphia_morphia_util_0_111.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_batch_spring_batch_infrastructure_2_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info-search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/info-search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="fulltextsearch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,8 +51,10 @@
     <ignored path="$PROJECT_DIR$/../cachecluster/target/" />
     <ignored path="$PROJECT_DIR$/../cache-cluster/target/" />
     <ignored path="$PROJECT_DIR$/../info-crawler/target/" />
+    <ignored path="$PROJECT_DIR$/../TTlib_common_util/target/" />
+    <ignored path="$PROJECT_DIR$/../TTlib_Java_practice/target/" />
+    <ignored path="$PROJECT_DIR$/../TTlib_cachecluster/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,16 +63,15 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="fulltextsearch" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchServerClient.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="1260">
               <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -160,40 +80,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexManager.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/index/IndexManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="171" column="24" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InetAddress.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/InetAddress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1210">
-              <caret line="188" column="6" selection-start-line="188" selection-start-column="6" selection-end-line="188" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TTlib_cachecluster/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="InetSocketTransportAddress.class" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/common/transport/InetSocketTransportAddress.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="78" />
-              <folding />
+            <state relative-caret-position="555">
+              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONHelper.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/util/JSONHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="300">
               <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -202,55 +115,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BufferedReader.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-              <folding>
-                <element signature="e#3011#3012#0" expanded="true" />
-                <element signature="e#3058#3059#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Streams.class" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/common/io/Streams.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="111" column="44" selection-start-line="111" selection-start-column="44" selection-end-line="111" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="1410">
+              <caret line="111" column="40" selection-start-line="111" selection-start-column="40" selection-end-line="111" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PreBuiltTransportClient.class" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/transport/5.1.1/transport-5.1.1.jar!/org/elasticsearch/transport/client/PreBuiltTransportClient.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="90">
               <caret line="24" column="36" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchManager.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/search/SearchManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
+            <state relative-caret-position="540">
               <caret line="60" column="46" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -261,11 +157,6 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -273,102 +164,77 @@
         <option value="$PROJECT_DIR$/../cachecluster/src/main/java/com/newroad/cache/common/CacheManager.java" />
         <option value="$PROJECT_DIR$/../cachecluster/src/main/java/com/newroad/cache/common/Cache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/search/SearchManager.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/util/JSONHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/newroad/fulltext/index/IndexManager.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
+      <expand />
+      <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-292" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1399" />
+    <option name="height" value="877" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
+    <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="true" />
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fulltextsearch" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="fulltextsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTlib_cachecluster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulltextsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTlib_fulltextsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../info-crawler/pom.xml" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../common-util/src/main/resources" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -414,28 +280,6 @@
       <Profilers>
         <option name="GAPID_DISABLE_PCS" value="false" />
       </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="">
@@ -500,25 +344,6 @@
     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -539,71 +364,6 @@
       <option name="OPTIONS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -611,27 +371,6 @@
       <setting name="launchBrowser" value="true" />
       <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
@@ -653,77 +392,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="fulltextsearch" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
@@ -772,48 +440,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -855,20 +481,10 @@
       <module name="common-util" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
@@ -987,9 +603,89 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="fulltextsearch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1007,48 +703,57 @@
       <workItem from="1482999948931" duration="918000" />
       <workItem from="1483005998351" duration="3896000" />
       <workItem from="1483016225361" duration="795000" />
+      <workItem from="1557424656502" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7087000" />
+    <option name="totallyTimeSpent" value="7226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-292" y="-1057" width="1920" height="1057" extended-state="1" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1410" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23003195" sideWeight="0.49714285" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.50285715" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21831736" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20121951" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23642172" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957265" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23976608" />
+      <window_info id="Structure" order="2" weight="0.24957265" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="0" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.20121951" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50285715" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Application Servers" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info active="true" anchor="bottom" id="Messages" order="15" sideWeight="0.49714285" visible="true" weight="0.23003195" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.32967836" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Json Parser" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.21831736" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette" order="7" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1058,74 +763,11 @@
       <collection />
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/dao/SiteDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/TripMasterMainAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/datamodel/note/Weather.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/datamodel/note/Weather.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/datamodel/note/Weather.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1134,130 +776,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/script/elasticsearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../common-util/src/main/java/logback.xml.bak" />
-    <entry file="file://$PROJECT_DIR$/../common-util/src/main/resources/logback_mac.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/basic/SimpleCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/ehcache/Ehcache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/redis/RedisCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/tools/SerializeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/CacheManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/resources/cache.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../common-util/src/main/resources/logback_mac.xml" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/basic/SimpleCache.java" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/ehcache/Ehcache.java" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/redis/RedisCache.java" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/tools/SerializeUtil.java" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/CacheManager.java" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/java/com/newroad/cache/common/Cache.java" />
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/resources/cache.properties" />
     <entry file="file://$PROJECT_DIR$/../cache-cluster/src/main/resources/cbclient.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../cache-cluster/cachecluster.iml" />
-    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/cloud/QiNiuCloudManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4280">
-          <caret line="222" column="6" selection-start-line="222" selection-start-column="6" selection-end-line="222" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/dao/ScenicDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/dao/SiteDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/TripMasterMainAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/cloud/QiNiuCloudManager.java" />
+    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/dao/ScenicDao.java" />
+    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/dao/SiteDao.java" />
+    <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/newroad/tripmaster/info/crawler/TripMasterMainAction.java" />
     <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/constants/Constants.java" />
     <entry file="file://$PROJECT_DIR$/../info-crawler/src/main/java/com/lenovo/zy/info/crawler/TestMain.java" />
-    <entry file="file://$PROJECT_DIR$/../cache-cluster/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../cache-cluster/README.md" />
     <entry file="file://$PROJECT_DIR$/../cache-cluster/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../info-crawler/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../info-crawler/pom.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/client/node/NodeClient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1350,78 +898,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/search/SearchManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="60" column="46" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="80" column="24" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/transport/5.1.1/transport-5.1.1.jar!/org/elasticsearch/transport/client/PreBuiltTransportClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/common/io/Streams.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="111" column="44" selection-start-line="111" selection-start-column="44" selection-end-line="111" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-          <folding>
-            <element signature="e#3011#3012#0" expanded="true" />
-            <element signature="e#3058#3059#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/util/JSONHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/InetAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1210">
-          <caret line="188" column="6" selection-start-line="188" selection-start-column="6" selection-end-line="188" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/common/transport/InetSocketTransportAddress.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/InetAddress.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="1260">
           <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1429,11 +910,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/common/transport/InetSocketTransportAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/util/JSONHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/common/io/Streams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="111" column="40" selection-start-line="111" selection-start-column="40" selection-end-line="111" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/client/transport/5.1.1/transport-5.1.1.jar!/org/elasticsearch/transport/client/PreBuiltTransportClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/search/SearchManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" column="46" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/index/IndexManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="171" column="24" selection-start-line="171" selection-start-column="24" selection-end-line="171" selection-end-column="24" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TTlib_cachecluster/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
         </state>
       </provider>
     </entry>

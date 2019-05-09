@@ -1,6 +1,13 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="info-search:war exploded">
     <output-path>$PROJECT_DIR$/target/info-search-0.0.3.RELEASE</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>info-search</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -26,8 +33,8 @@
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.2" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
           <element id="library" level="project" name="Maven: junit:junit:4.8.2" />
-          <element id="archive" name="cache-cluster-0.0.2.RELEASE.jar">
-            <element id="module-output" name="cache-cluster" />
+          <element id="archive" name="cachecluster-0.0.2.RELEASE.jar">
+            <element id="module-output" name="cachecluster" />
           </element>
           <element id="library" level="project" name="Maven: com.couchbase.client:couchbase-client:1.4.6" />
           <element id="library" level="project" name="Maven: io.netty:netty:3.5.5.Final" />
