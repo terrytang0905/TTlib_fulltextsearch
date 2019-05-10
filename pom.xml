@@ -9,7 +9,7 @@
 	<description>the fulltext search component</description>
 
 	<properties>
-		<project.spring.version>4.1.6.RELEASE</project.spring.version>
+		<project.spring.version>4.3.17.RELEASE</project.spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.newroad.group>com.newroad</project.newroad.group>
 		<project.newroad.version>0.0.1.RELEASE</project.newroad.version>

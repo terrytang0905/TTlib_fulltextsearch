@@ -8,10 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cachecluster" />
         <module name="common-util" />
+        <module name="db-tool" />
+        <module name="filecloud" />
         <module name="fulltextsearch" />
         <module name="info-crawler" />
         <module name="info-search" />
         <module name="infoCrawler" />
+        <module name="mongorm" />
         <module name="ttlib-java-practice" />
       </profile>
     </annotationProcessing>
@@ -19,10 +22,13 @@
       <module name="cache-cluster" target="1.6" />
       <module name="cachecluster" target="1.6" />
       <module name="common-util" target="1.6" />
+      <module name="db-tool" target="1.6" />
+      <module name="filecloud" target="1.6" />
       <module name="fulltextsearch" target="1.6" />
       <module name="info-crawler" target="1.5" />
       <module name="info-search" target="1.6" />
       <module name="infoCrawler" target="1.5" />
+      <module name="mongorm" target="1.6" />
       <module name="ttlib-java-practice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
