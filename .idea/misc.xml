@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/../TTlib_filecloud/pom.xml" />
         <option value="$PROJECT_DIR$/../TTlib_mongorm/pom.xml" />
         <option value="$PROJECT_DIR$/../TTlib_data_tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../ua-parser/pom.xml" />
       </list>
     </option>
   </component>

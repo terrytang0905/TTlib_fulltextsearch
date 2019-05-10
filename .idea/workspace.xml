@@ -2,40 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="996733e3-cae0-4c8f-b8bd-0424ab086cec" name="Default" comment="minor code update">
-      <change afterPath="$PROJECT_DIR$/../TTlib_data_tool/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TTlib_data_tool/db-tool.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TTlib_filecloud/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TTlib_filecloud/filecloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TTlib_mongorm/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TTlib_mongorm/mongorm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_Java_practice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TTlib_Java_practice/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_common_util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TTlib_common_util/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_data_tool/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_data_tool/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_data_tool/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_data_tool/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_data_tool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TTlib_data_tool/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_filecloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TTlib_filecloud/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/info_search_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/info_search_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ua-parser/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info-search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/info-search.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TTlib_mongorm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TTlib_mongorm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/executor/DevTypeParserUDF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/executor/DevTypeParserUDF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/executor/DeviceParserSparkExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/executor/DeviceParserSparkExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/executor/UAParserMainExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/executor/UAParserMainExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/executor/UAParserSimpleUDF.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/executor/UAParserSimpleUDF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/route/DeviceParserSparkProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/route/DeviceParserSparkProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/route/domain/RouteMacDevDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/route/domain/RouteMacDevDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/route/domain/RouteMacDeviceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/route/domain/RouteMacDeviceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/route/enums/RouteDeviceType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/route/enums/RouteDeviceType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/route/util/HDFSConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/route/util/HDFSConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/task/DeviceUAParserTaskProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/task/DeviceUAParserTaskProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/task/UABrowserParseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/task/UABrowserParseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/task/UADeviceParseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/task/UADeviceParseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/task/UAOsParseTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/task/UAOsParseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/CachingParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/CachingParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/Device.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/Device.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/DeviceParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/DeviceParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/OS.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/OS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/OSParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/OSParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/UserAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/UserAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparse/UserAgentParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparse/UserAgentParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/BrowserExtParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/BrowserExtParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/BrowserPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/BrowserPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/DeviceExtParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/DeviceExtParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/DevicePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/DevicePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/OSExtParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/OSExtParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/OSPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/OSPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/UACorePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/UACorePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/UAExtParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/UAExtParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/domain/BrowserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/domain/BrowserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/domain/DeviceEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/domain/DeviceEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/domain/OSEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/domain/OSEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/uaparsejs/domain/UADeviceEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/uaparsejs/domain/UADeviceEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/CompositeV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/CompositeV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/CompositeV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/CompositeV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/CompositeV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/CompositeV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/DeviceDateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/DeviceDateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/ObjectUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/ObjectUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/java/com/iresearch/common/device/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ua-parser/ua-parser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ua-parser/ua-parser.iml" afterDir="false" />
     </list>
     <ignored path="fulltextsearch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,6 +70,7 @@
     <ignored path="$PROJECT_DIR$/../TTlib_filecloud/target/" />
     <ignored path="$PROJECT_DIR$/../TTlib_mongorm/target/" />
     <ignored path="$PROJECT_DIR$/../TTlib_data_tool/target/" />
+    <ignored path="$PROJECT_DIR$/../ua-parser/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,87 +86,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/utils/DBTransformUtils.java">
+        <entry file="file://$PROJECT_DIR$/../TTlib_cachecluster/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TTlib_common_util/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/utils/FileResourceType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/utils/TagNoteCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/manager/ResourceTransferAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/manager/GTDBTransferAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/manager/DBTransferAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/manager/DBIntegrityAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/manager/DBIncrementAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/manager/DBCategoryAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/src/main/java/com/newroad/data/transfer/cache/CacheLoadUtility.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -157,11 +108,66 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ua-parser/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/mongorm.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ua-parser/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/executor/DeviceParserSparkExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ua-parser/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../TTlib_data_tool" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ua-parser" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -179,6 +185,9 @@
         <option value="$PROJECT_DIR$/../TTlib_Java_practice/pom.xml" />
         <option value="$PROJECT_DIR$/../TTlib_mongorm/pom.xml" />
         <option value="$PROJECT_DIR$/../TTlib_data_tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../ua-parser/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/../ua-parser/.gitignore" />
+        <option value="$PROJECT_DIR$/../ua-parser/pom.xml" />
       </list>
     </option>
   </component>
@@ -187,21 +196,7 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="db-tools" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="db-tools" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mongorm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mongorm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="ua-parser" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -221,7 +216,29 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fulltextsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTlib_cachecluster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulltextsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTlib_data_tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulltextsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TTlib_mongorm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulltextsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ua-parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -238,11 +255,11 @@
       <recent name="$PROJECT_DIR$/../common-util/src/main/resources" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../ua-parser" />
       <recent name="$PROJECT_DIR$/../TTlib_data_tool" />
       <recent name="$PROJECT_DIR$/../TTlib_mongorm" />
       <recent name="$PROJECT_DIR$/../TTlib_filecloud" />
       <recent name="$PROJECT_DIR$/../TTlib_cachecluster" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -727,7 +744,7 @@
       <workItem from="1483005998351" duration="3896000" />
       <workItem from="1483016225361" duration="795000" />
       <workItem from="1557424656502" duration="390000" />
-      <workItem from="1557463133563" duration="2358000" />
+      <workItem from="1557463133563" duration="2752000" />
     </task>
     <task id="LOCAL-00001" summary="minor code update">
       <created>1557424905717</created>
@@ -736,14 +753,22 @@
       <option name="project" value="LOCAL" />
       <updated>1557424905718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="minor code update">
+      <created>1557471539580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557471539580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9835000" />
+    <option name="totallyTimeSpent" value="10229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1399" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2431835" />
@@ -803,45 +828,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/client/IndicesAdminClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/client/transport/TransportClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3140">
-          <caret line="219" column="30" selection-start-line="219" selection-start-column="15" selection-end-line="219" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/search/fetch/subphase/highlight/HighlightBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/index/query/QueryBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.1.1/elasticsearch-5.1.1.jar!/org/elasticsearch/search/fetch/subphase/highlight/AbstractHighlighterBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3180">
-          <caret line="192" column="21" selection-start-line="192" selection-start-column="21" selection-end-line="192" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/InetAddress.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/newroad/fulltext/client/SearchServerClient.java">
@@ -933,13 +919,6 @@
     <entry file="file://$PROJECT_DIR$/../TTlib_filecloud/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TTlib_common_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TTlib_filecloud/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -958,9 +937,6 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2022">
@@ -977,16 +953,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../TTlib_cachecluster/cachecluster.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TTlib_cachecluster/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../TTlib_data_tool/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1094,6 +1060,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ua-parser/src/main/java/com/newroad/common/device/executor/DeviceParserSparkExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ua-parser/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ua-parser/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TTlib_mongorm/mongorm.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TTlib_cachecluster/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TTlib_common_util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="71" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ua-parser/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>

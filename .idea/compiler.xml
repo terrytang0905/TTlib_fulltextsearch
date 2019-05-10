@@ -16,6 +16,7 @@
         <module name="infoCrawler" />
         <module name="mongorm" />
         <module name="ttlib-java-practice" />
+        <module name="ua-parser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +31,7 @@
       <module name="infoCrawler" target="1.5" />
       <module name="mongorm" target="1.6" />
       <module name="ttlib-java-practice" target="1.5" />
+      <module name="ua-parser" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

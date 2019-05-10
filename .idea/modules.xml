@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TTlib_mongorm/mongorm.iml" filepath="$PROJECT_DIR$/../TTlib_mongorm/mongorm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TTlib_Java_practice/ttlib-java-practice.iml" filepath="$PROJECT_DIR$/../TTlib_Java_practice/ttlib-java-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ua-parser/ua-parser.iml" filepath="$PROJECT_DIR$/../ua-parser/ua-parser.iml" />
     </modules>
   </component>
 </project>
